@@ -64,8 +64,6 @@ More is currently not possible in this application.
 <br>
 <br>
 
-
-
 ## Course Information
 Title: Developing Front End Apps with React<br>
 Type: Final Project<br>
@@ -74,14 +72,12 @@ Course Provider: IBM<br>
 <br>
 <br>
 
-
-
 ## Information about the Project
 ### General
 - Client: Myself
 - Project Goal: Expand the web user interface of the existing React application. Practice working with React, Redux and the Redux Toolkit.
 - Number of Project Participants: 1 (Cloned repository of IBM. Developed the rest on my own)
-- Time Period: October, 2024
+- Time Period: Jan, 2026
 - Industry / Area: Web Development
 - Role: Developer
 - Languages: English
